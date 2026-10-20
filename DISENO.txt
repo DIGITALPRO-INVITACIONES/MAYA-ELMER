@@ -1,0 +1,7 @@
+DISEÑO FLORAL · MAYA Y ELMER
+Herramienta: ImageGen integrada.
+Archivo final: assets/flores-terracota.webp
+Referencia: captura suministrada por el cliente.
+Prompt: reproduce lush horizontal arrangement of large peonies, garden roses, cream flowers and dangling olive/eucalyptus leaves. Change pink/red/burgundy to terracotta, burnt sienna, clay and muted peach. Ivory flowers, deep forest olive sage green leaves. Realistic watercolor botanical wedding stationery, transparent background, no text or interface.
+Foto de pareja original sin cambios de rostro, optimizada en WebP.
+Tipografías locales: Firma, Lora y Nunito, licencias incluidas.

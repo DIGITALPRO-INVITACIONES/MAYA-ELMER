@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//Boda Maya y Elmer//ES
+BEGIN:VEVENT
+UID:maya-elmer-20261114@digitalpro
+DTSTAMP:20261020T120000Z
+DTSTART:20261114T200000Z
+SUMMARY:Boda de Maya Lucero y Elmer Ivan
+LOCATION:GAIA Jardín de Eventos y Bodas
+DESCRIPTION:Ceremonia religiosa a las 16:00. Recepción social al finalizar en el mismo local.
+URL:https://maps.app.goo.gl/itPUGH1BL4arFN7z8
+END:VEVENT
+END:VCALENDAR
