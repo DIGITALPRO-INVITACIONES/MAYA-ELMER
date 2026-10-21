@@ -5,3 +5,5 @@ Referencia: captura suministrada por el cliente.
 Prompt: reproduce lush horizontal arrangement of large peonies, garden roses, cream flowers and dangling olive/eucalyptus leaves. Change pink/red/burgundy to terracotta, burnt sienna, clay and muted peach. Ivory flowers, deep forest olive sage green leaves. Realistic watercolor botanical wedding stationery, transparent background, no text or interface.
 Foto de pareja original sin cambios de rostro, optimizada en WebP.
 Tipografías locales: Firma, Lora y Nunito, licencias incluidas.
+
+Actualización Ivan y Maya: sobre terracota de dos hojas, ImageGen editó sobre celeste de referencia conservando relieve floral, lazo marfil y borde dorado; reemplazó papel por terracota y cinta por canela. Asset assets/sobre-terracota.webp. Cuatro pases fijos, más adornos florales y dresscode formal.
